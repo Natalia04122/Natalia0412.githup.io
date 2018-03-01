@@ -1,0 +1,129 @@
+﻿html { 
+	height: 100%; 
+	font-style: italic;
+	min-width:900px;
+	min-height:950px;
+}
+.center{
+	background-size: cover; /* Фон занимает всю доступную площадь */
+	background-image:url('../Фото/IMG_9863.jpg');
+	margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+}
+body {
+    margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+    background-size: cover; /* Фон занимает всю доступную площадь */
+}
+.blok1{
+	background-color:#dce6f7;	
+	padding:20px;
+	height:30px;
+}
+ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 20px; /* Поля вокруг текста */
+    border-radius: 10px;
+}
+ul.hr{
+	margin: 0;
+	text-align:center;
+}
+.blok2{
+	
+	text-align:center;
+}
+.logo{
+	margin-top:80px;
+	width: 300px;
+	hspace: 60px;
+}
+a{
+	text-decoration: none;
+	color:#1a4999;
+}
+a.a:link { text-decoration: none; }
+   A.a:visited { text-decoration: none; }
+   A.a:active { text-decoration: none; }
+   A.a:hover { 
+   color: #0b1d3d;/* Цвет ссылки */
+   border:1px solid #0b1d3d;;
+   padding: 5px;
+   border-radius: 10px; 
+  }
+a.index{
+	color: #b03bef;
+    text-decoration: none;
+    pointer-events: none;
+}
+a.index:link { text-decoration: none; }
+   A.index:visited { text-decoration: none; }
+   A.index:active { text-decoration: none; }
+   A.index:hover { 
+   color: #0b1d3d;/* Цвет ссылки */
+   border:1px solid #0b1d3d;;
+   padding: 5px;
+   border-radius: 10px; 
+  }
+.blok4{
+	text-align:center;
+	color:white;
+	margin-top:20px;
+	margin-left:20%;
+	margin-right:20%;
+	background-color:#dce6f7;
+	opacity: 0.6;
+	padding:5px;
+	border-radius: 10px;
+	color:black;
+}
+.blok3{
+	margin-top:40px;
+	margin-left:30%;
+	margin-right:30%;	
+}
+div.altay{
+	background-image:url('../Фото/IMG_9492.JPG');
+	background-size: cover;
+	padding:1px;
+	margin-top:10px;
+	border-radius: 30px;
+
+}
+div.gryzia{
+	background-image:url('../Фото/IMG_4849.JPG');
+	background-size: cover;
+	padding:1px;
+	margin-top:10px;
+	border-radius: 30px;
+
+}
+div.myrmansk{
+	background-image:url('../Фото/IMG_2207.png');
+	background-size: cover;
+	padding:1px;
+	margin-top:10px;
+	border-radius: 30px;
+}
+h2{
+	text-align:center;
+	color: #daf2f1;
+}
+.blok4{
+	background-color:#dce6f7;	
+	padding:20px;
+	margin-top:60px;
+}
+.foter{
+	color:a;
+    padding: 10px; /* Поля вокруг текста */
+    background-color:#dce6f7;
+    width: 100%; /* Ширина слоя */
+    text-align:center;
+}
+input{
+	border-radius: 10px;
+	background-color:#dce6f7;
+	border-radius: 10px;
+	height:30px;
